@@ -5,7 +5,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/ArrowOS_redwood.mk
+    $(LOCAL_DIR)/arrow_redwood.mk
 
 COMMON_LUNCH_CHOICES := \
     arrow_redwood-user \
